@@ -9,6 +9,7 @@
 
 원활한 취업과 프로젝트 업로드를 위해  깃허브 사용을 알아가고 있는 중 입니다.
 
+-->원활하게 다듬기
 Hello.
 
 I am studying at a one-year boot camp organized by Polytechnic University to get a job as a web developer.
@@ -16,3 +17,9 @@ I am studying at a one-year boot camp organized by Polytechnic University to get
 I am practicing making web pages mainly using the e-government framework.
 
 I'm getting to know the use of GitHub for smooth employment and project upload.
+
+-->여기다가 배찌 아이콘 넣기
+
+사용언어&스킬:
+
+도구:
